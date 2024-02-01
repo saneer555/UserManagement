@@ -1,0 +1,11 @@
+Hello {fullName}, </br>
+</br>
+Your Registration is Success.</br>
+
+Your Password is:</br>
+
+  tempPassword: {temp}</br>
+  
+Please click the link below to activate your account:</br>
+
+<a href="{url}">Activate Now</a>
